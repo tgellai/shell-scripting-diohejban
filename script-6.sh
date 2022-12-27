@@ -11,3 +11,5 @@ then
 else
     echo "A megadott elérésen egy egyéb fájltípus található."
 fi
+
+ls -l $FILE
